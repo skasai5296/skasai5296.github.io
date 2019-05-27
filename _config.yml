@@ -15,7 +15,7 @@ github_username:  skasai5296
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: Seito Kasai
+linkedin_username: seito-kasai-9541b1182
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -42,11 +42,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in machine learning research and software engineering some of my other interests and hobbies are:
+   - Playing Tennis
+   - Travelling
 
 # Footer
 footer_show_references: true
