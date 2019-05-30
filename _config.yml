@@ -5,14 +5,14 @@ repository: sproogen/resume-theme
 # Personal info
 name: Seito Kasai
 title: MS Student, Computer Science and Electronic Engineering
-email: skasai@aoki-medialab.jp, seito-kasai@aist.go.jp
+email: skasai@aoki-medialab.jp
 website: https://skasai5296.github.io/
 
 # Social links
 twitter_username: sk_gnkr96
 github_username:  skasai5296
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: seito.kasai
 # flickr_username: jekyll
 # instagram_username: chillwildlife
 linkedin_username: seito-kasai-9541b1182
@@ -22,7 +22,7 @@ linkedin_username: seito-kasai-9541b1182
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name's Seito, and I study computer vision & machine learning. I'm currently a MS student working on vision & language at Aoki Media Lab. in Keio University.
   Although I used to code mainly for my research, my recent interests are creating software to give an impact on many people.

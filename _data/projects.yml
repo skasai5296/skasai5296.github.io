@@ -1,7 +1,30 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: cvpaper.challenge
+  link: http://xpaperchallenge.org/cv/index.html
+  github: cvpaperchallenge
+  dates: Mar 2019 - present
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This organization consists of members from various universities in Japan all studying computer vision.
+    Over 100 members participate in the projects that we hold at cvpaper.challenge, e.g. CVPR 2018 survey.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    To follow the latest research, I participate in the survey member for top conferences on computer vision and natural language processing.
+    Speaking with fellow researchers on computer vision helps me a lot on my research and brainstorming.
+
+- name: ActivityNet Large-Scale Activity Recognition Challenge (Dense-Captioning Events in Videos)
+  link: http://activity-net.org/challenges/2019/tasks/anet_captioning.html
+  # github: github.com/cvpaperchallenge
+  dates: Apr 2019 - Jun 2019
+  quote: >
+    Most natural videos contain numerous events. For example, in a video of a 'man playing a piano', the video might also contain another 'man dancing' or 'a crowd clapping'.
+    This challenge studies the task of dense-captioning events, which involves both detecting and describing events in a video.
+  description: | # this will include new lines to allow paragraphs
+    I will participate in this competition @CVPR2019 WS. Details would be updated after the challenge.
+
+- name: Co-enhance
+  #link: http://activity-net.org/challenges/2019/tasks/anet_captioning.html
+  github: skasai5296/coenhance
+  dates: Feb 2019 - Mar 2019
+  quote: >
+    A lecture given on AI programming using PyTorch. The audience was students from Keio University MBA.
+  description: | # this will include new lines to allow paragraphs
+    I conducted the whole lecture, which includes making the code, preparing the slides and presentation, and teaching students.
+    I explained the powers and limits of AI as accurate as possible to beginners without giving high-level mathematics.
