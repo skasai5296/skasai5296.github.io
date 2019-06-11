@@ -24,6 +24,10 @@
                 {%- include education.html -%}
             {%- endif -%}
 
+            {%- if site.data.publications.size > 0 -%}
+                {%- include publications.html -%}
+            {%- endif -%}
+
             {%- include more.html -%}
 
         </div>
