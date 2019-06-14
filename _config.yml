@@ -39,23 +39,6 @@ experience_title: Work Experience
 # Education Section
 educaton_title: Education
 
-# Publications Section
-publications_title: Publications #(Use this to override about projects section title)
-publications_content: |
-  ## <b>Journal</b>
-  * (Under Review)
-  ## <b>International Conferences</b>
-  * N. Akimoto, <b>S. Kasai</b>, M. Hayashi, Y. Aoki, 360-DEGREE IMAGE COMPLETION BY TWO-STAGE CONDITIONAL GANS,
-    IEEE International Conference on Image Processing (ICIP), Sep 2019.
-  * K. Yoshida, K. Okayasu, K. Tsubura, M. Minoguchi, T. Ikeya, A. Nakamura, <b>S. Kasai</b>, H. Kataoka, Which generates better jokes, hand-crafted features or deep features,
-    CVPR 2019 Language & Vision Workshop, Jun 2019.
-  ## <b>Domestic Conferences</b>
-  * <b>笠井誠斗</b>，林昌希，秋本直郁，青木義満，自然言語指示文を用いた顔画像属性変換，動的画像処理実利用化ワークショップ (DIA), OS5-3，2019年3月
-  * <b>笠井誠斗</b>，中込優，黒澤郁音，矢代達希，西川真史，相澤宏旭，福井宏，【招待ショートサーベイ】コンピュータビジョンと自然言語処理の共存マップ，
-    電子情報通信学会，パターン認識・メディア理解研究会(PRMU)，2018年10月
-  * <b>S. Kasai</b>, Y. Ishikawa, T. Wakamiya, K. Hara, H. Kataoka, Exploring the Best Model for Dense Captioning Events in Videos, 
-    The 22nd Meeting on Image Recognition and Understanding (MIRU), Aug 2019.
-
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
