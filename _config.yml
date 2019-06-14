@@ -24,10 +24,12 @@ linkedin_username: seito-kasai-9541b1182
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name's Seito, and I study computer vision & machine learning. I'm currently a MS student working on vision & language at Aoki Media Lab. in Keio University.
+  My name is Seito, and I study computer vision & machine learning. I'm currently a MS student working on vision & language at Aoki Media Sensing Lab. in Keio University.
   Although I used to code mainly for my research, my recent interests are creating software to give an impact on many people.
 
-  I am most skilled in: <mark>Python</mark>, <mark>Computer Vision</mark>, and <mark>Machine Learning</mark>
+  Programming Languages: <mark>Python</mark>, <mark>C/C++</mark>, <mark>R</mark>, <mark>Java</mark>
+
+  Skills: <mark>Machine Learning</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>
 
 
 # Projects Section
