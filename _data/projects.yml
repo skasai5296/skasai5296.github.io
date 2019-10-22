@@ -6,18 +6,18 @@
     This organization consists of members from various universities in Japan all studying computer vision.
     Over 100 members participate in the projects that we hold at cvpaper.challenge, e.g. CVPR 2018 survey.
   description: | # this will include new lines to allow paragraphs
-    To follow the latest research, I participate in the survey member for top conferences on computer vision and natural language processing.
-    Speaking with fellow researchers on computer vision helps me a lot on my research and brainstorming.
+    Participating as a survey member for top conferences on computer vision and natural language processing
 
-- name: ActivityNet Large-Scale Activity Recognition Challenge (Dense-Captioning Events in Videos)
-  link: http://activity-net.org/challenges/2019/tasks/anet_captioning.html
+- name: ActivityNet Large-Scale Activity Recognition Challenge (Kinetics, Dense-Captioning Events in Videos)
+  link: http://activity-net.org/challenges/2019/tasks
   # github: github.com/cvpaperchallenge
   dates: Apr 2019 - Jun 2019
   quote: >
     Most natural videos contain numerous events. For example, in a video of a 'man playing a piano', the video might also contain another 'man dancing' or 'a crowd clapping'.
     This challenge studies the task of dense-captioning events, which involves both detecting and describing events in a video.
   description: | # this will include new lines to allow paragraphs
-    I will participate in this competition @CVPR2019 WS. Details would be updated after the challenge.
+    Participated in the competition @CVPR2019 WS
+    9th in video classification task
 
 - name: Co-enhance
   #link: http://activity-net.org/challenges/2019/tasks/anet_captioning.html
@@ -26,5 +26,6 @@
   quote: >
     A lecture given on AI programming using PyTorch. The audience was students from Keio University MBA.
   description: | # this will include new lines to allow paragraphs
-    I conducted the whole lecture, which includes making the code, preparing the slides and presentation, and teaching students.
-    I explained the powers and limits of AI as accurately as possible to beginners without giving high-level mathematics.
+    Conducted the whole lecture, including making the code and preparing the slides and presentation
+    Explained the powers and limits of AI to beginners without giving high-level mathematics
+    Used Python, PyTorch to build a classification algorithm with visual reasoning

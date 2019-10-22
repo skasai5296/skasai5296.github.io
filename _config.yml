@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 # Personal info
 name: Seito Kasai
 title: MS Student, Computer Science and Electronic Engineering
-email: skasai@aoki-medialab.jp
+email: skasai@aoki-medialab.jp, seito-kasai@aist.go.jp
 website: https://skasai5296.github.io/
 
 # Social links
@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
   Although I used to code mainly for my research, my recent interests are creating software to give an impact on many people.
 
   Currently I am looking for engineering/research internships, especially ones in which I can express and enhance my coding skills.
-  Please don't hesitate to contact me!
+  If you're interested, please don't hesitate to contact me!
 
   Programming Languages: <mark>Python</mark>, <mark>C/C++</mark>, <mark>R</mark>, <mark>MATLAB</mark>, <mark>Java</mark>
 

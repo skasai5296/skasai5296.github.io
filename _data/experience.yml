@@ -1,19 +1,29 @@
+- company: Tenchijin Inc.
+  link: http://tenchijin.co.jp/index.html
+  job_title: Software Engineering Intern
+  dates: Jun 2019 - present
+  quote: >
+   Startup focusing on optimizing land usage using geospatial data
+  description: | # this will include new lines to allow paragraphs
+    To be updated
+    #Automated the collection of geospatial data using Python, Docker, and Microsoft Azure
+
 - company: National Institute of Advanced Industrial Science and Technology (AIST)
   link: https://www.aist.go.jp/index_en.html
-  job_title: Research Assistant, Computer Vision Research Group
+  job_title: Research Assistant / Intern, Computer Vision Research Group
   dates: Apr 2019 - present
   quote: >
    Japanese resesarch facility aiming to utilize scientific knowledge and technology to meet socio-economic needs
   description: | # this will include new lines to allow paragraphs
-    I'm conducting the latest research in computer vision. My aims at AIST are to publicate my works on video recognition using deep learning.
+    - Conducting research on the latest computer vision
+    - Publications in video recognition, vision & language, and cross-modal representation learning and retrieval
 
 - company: Pre-Startup in Keio University MBA
   #link: boringcompany.com
-  job_title: Software Engineer, Teacher
+  job_title: Software Engineer, Tutor
   dates: Jan 2019 - present
   quote: >
-   A pre-startup working with just four people. Starting business from scratch, and have produced two MVPs for our commercial products.
+   A pre-startup working with just four people, starting business from scratch, produced two MVPs for commercial products
   description: | # this will include new lines to allow paragraphs
-    I worked on establishing a startup from scratch, which greatly helped me in developing my skills for working with people with different specialties.
-    My works include a fully-conducted Japanese course on Deep Learning for Beginners including code written using Google Colaboratory.
-    Our next project is iOS development on a social networking application. Details are to be updated.
+    - Conducted a Japanese course on deep learning for beginners including code written using Google Colaboratory, using PyTorch
+    - Planned startup concepts and MVPs, worked with people having different specialities
