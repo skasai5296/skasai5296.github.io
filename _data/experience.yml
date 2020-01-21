@@ -6,7 +6,7 @@
     Startup focusing on optimizing land usage using geospatial data
   description: | # this will include new lines to allow paragraphs
     - Automated satellite data download and processing using Python, Gdal, and Docker
-    - Built a web application using Django and PostgreSQL
+    - Built a [web application](https://www.youtube.com/watch?v=uA44Hnl042c) using Django and PostgreSQL
     - Deploying application on public cloud services
 
 - company: National Institute of Advanced Industrial Science and Technology (AIST)
