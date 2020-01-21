@@ -5,7 +5,9 @@
   quote: >
     Startup focusing on optimizing land usage using geospatial data
   description: | # this will include new lines to allow paragraphs
-    - (To be updated)
+    - Automated satellite data download and processing using Python, Docker
+    - Built a web application using Django and PostgreSQL
+    - Deploying application on public cloud services
 
 - company: National Institute of Advanced Industrial Science and Technology (AIST)
   link: https://www.aist.go.jp/index_en.html
@@ -16,6 +18,15 @@
   description: | # this will include new lines to allow paragraphs
     - Conducting research on the latest computer vision
     - Publications in video recognition, vision & language, and cross-modal representation learning and retrieval
+
+- company: Amazon Web Services Japan
+  link: https://aws.amazon.com/
+  job_title: Intern, Machine Learning Solutions Architect
+  dates: Jan 2020
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    - Worked as a team and analyzed real-world problems seen through data
+    - Used Amazon S3, Sagemaker to conduct analysis and deploy scalable machine learning models
 
 - company: Pre-Startup in Keio University MBA
   #link: boringcompany.com

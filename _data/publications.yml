@@ -7,8 +7,8 @@
   #  This challenge studies the task of dense-captioning events, which involves both detecting and describing events in a video.
   description: | # this will include new lines to allow paragraphs
    <ul>
-    <li>N. Akimoto, <b>S. Kasai</b>, M. Hayashi, Y. Aoki, 360-DEGREE IMAGE COMPLETION BY TWO-STAGE CONDITIONAL GANS,
-        IEEE International Conference on Image Processing (ICIP), Sep 2019.</li>
+    <li><a href="https://ieeexplore.ieee.org/document/8803435">N. Akimoto, <b>S. Kasai</b>, M. Hayashi, Y. Aoki, 360-DEGREE IMAGE COMPLETION BY TWO-STAGE CONDITIONAL GANS,
+        IEEE International Conference on Image Processing (ICIP), Sep 2019.</a></li>
     <li>K. Yoshida, K. Okayasu, K. Tsubura, M. Minoguchi, T. Ikeya, A. Nakamura, <b>S. Kasai</b>, H. Kataoka, Which generates better jokes, hand-crafted features or deep features,
         CVPR 2019 Language &amp; Vision Workshop, Jun 2019. </li>
    </ul>
@@ -22,7 +22,7 @@
   #  Over 100 members participate in the projects that we hold at cvpaper.challenge, e.g. CVPR 2018 survey.
   description: | # this will include new lines to allow paragraphs
    <ul>
-    <li><b>笠井誠斗</b>，秋本直郁，林昌希，青木義満，自然言語指示文を用いた物体画像の視覚的属性変換，精密工学会誌，12 (2019)</li>
+    <li><a href="https://www.jstage.jst.go.jp/article/jjspe/85/12/85_1102/_article/-char/ja/"><b>笠井誠斗</b>，秋本直郁，林昌希，青木義満，自然言語指示文を用いた物体画像の視覚的属性変換，精密工学会誌，95巻12号 (2019年12月)</a></li>
    </ul>
 
 - name: Domestic Conferences
@@ -34,8 +34,8 @@
   description: | # this will include new lines to allow paragraphs
    <ul>
     <li><b>笠井誠斗</b>，林昌希，秋本直郁，青木義満，自然言語指示文を用いた顔画像属性変換，動的画像処理実利用化ワークショップ (DIA), OS5-3，2019年3月</li>
-    <li><b>笠井誠斗</b>，中込優，黒澤郁音，矢代達希，西川真史，相澤宏旭，福井宏，【招待ショートサーベイ】コンピュータビジョンと自然言語処理の共存マップ，
-        電子情報通信学会，パターン認識・メディア理解研究会(PRMU)，2018年10月</li>
+    <li><a href="https://www.ieice.org/ken/paper/20181019f1hz/"><b>笠井誠斗</b>，中込優，黒澤郁音，矢代達希，西川真史，相澤宏旭，福井宏，【招待ショートサーベイ】コンピュータビジョンと自然言語処理の共存マップ，
+        電子情報通信学会，パターン認識・メディア理解研究会(PRMU)，2018年10月</a></li>
     <li><b>S. Kasai</b>, Y. Ishikawa, T. Wakamiya, K. Hara, H. Kataoka, Exploring the Best Model for Dense Captioning Events in Videos, 
     The 22nd Meeting on Image Recognition and Understanding (MIRU), Aug 2019.</li>
    </ul>

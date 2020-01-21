@@ -25,10 +25,10 @@ linkedin_username: seito-kasai-9541b1182
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   My name is Seito, and I study computer vision & machine learning.
-  I'm currently a MS student working on vision & language at Aoki Media Sensing Lab. in Keio University, and live in Tokyo, Japan.
-  Although I used to code mainly for my research, my recent interests are creating software to give an impact on many people.
+  I am currently a graduate student working on vision & language at Aoki Media Sensing Lab. in Keio University, and live in Tokyo, Japan.
+  My main interest in the tech industry is creating software to give an impact on many people's lives and experience.
 
-  Currently I am looking for engineering/research internships, especially ones in which I can express and enhance my coding skills.
+  Currently I am looking for engineering/research full-time offers, especially ones in which I can express and enhance my skills.
   If you're interested, please don't hesitate to contact me!
 
   Programming Languages: <mark>Python</mark>, <mark>C/C++</mark>, <mark>R</mark>, <mark>MATLAB</mark>, <mark>Java</mark>
@@ -50,7 +50,7 @@ educaton_title: Education
 more_content: | # this will include new lines to allow paragraphs
   I used to live in Miami, FL in the U.S. for about 6 years when I was young, so I'm comfortable communicating in both Japanese and English.
   Alongside my interests in machine learning research and software engineering some of my other interests and hobbies are:
-   - Playing Tennis (I've played for more than 15 years!)
+   - Playing Tennis (I've played for more than 17 years!)
    - Travelling
 
 # Footer
