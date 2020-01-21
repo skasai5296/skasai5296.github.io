@@ -1,17 +1,17 @@
 - company: Tenchijin Inc.
   link: http://tenchijin.co.jp/index.html
-  job_title: Intern, Software Engineering
+  job_title: Intern, Software Engineer
   dates: Sep 2019 - present
   quote: >
     Startup focusing on optimizing land usage using geospatial data
   description: | # this will include new lines to allow paragraphs
-    - Automated satellite data download and processing using Python, Docker
+    - Automated satellite data download and processing using Python, Gdal, and Docker
     - Built a web application using Django and PostgreSQL
     - Deploying application on public cloud services
 
 - company: National Institute of Advanced Industrial Science and Technology (AIST)
   link: https://www.aist.go.jp/index_en.html
-  job_title: Research Assistant / Intern, Computer Vision Research Group
+  job_title: Part-time Research Assistant / Intern, Computer Vision Research Group
   dates: Apr 2019 - present
   quote: >
     Japanese resesarch facility aiming to utilize scientific knowledge and technology to meet socio-economic needs
@@ -26,14 +26,14 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     - Worked as a team and analyzed real-world problems seen through data
-    - Used Amazon S3, Sagemaker to conduct analysis and deploy scalable machine learning models
+    - Used Amazon S3, Amazon Sagemaker to conduct analysis and deploy scalable machine learning models
 
 - company: Pre-Startup in Keio University MBA
   #link: boringcompany.com
   job_title: Software Engineer, Tutor
-  dates: Jan 2019 - present
+  dates: Jan 2019 - Apr 2019
   quote: >
     A pre-startup working with just four people, starting business from scratch, produced two MVPs for commercial products
   description: | # this will include new lines to allow paragraphs
-    - Conducted a Japanese course on deep learning for beginners including code written using Google Colaboratory, using PyTorch
+    - Conducted a Japanese course on deep learning for beginners including <a href="https://github.com/skasai5296/coenhance">code written using Google Colaboratory</a>, using PyTorch
     - Planned startup concepts and MVPs, worked with people having different specialities

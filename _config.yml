@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 # Personal info
 name: Seito Kasai
 title: MS Student, Computer Science and Electronic Engineering
-email: skasai@aoki-medialab.jp
+email: seito[at]gmail.com
 website: https://skasai5296.github.io/
 
 # Social links
@@ -35,15 +35,14 @@ about_content: | # this will include new lines to allow paragraphs
 
   Skills: <mark>Machine Learning</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>, <mark>Data Science</mark>
 
-
-# Projects Section
-projects_title: Projects
-
 # Experience Section
 experience_title: Work Experience
 
 # Education Section
 educaton_title: Education
+
+# Projects Section
+projects_title: Projects
 
 # More Section
 # more_title: A Little More About Me

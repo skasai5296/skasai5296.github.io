@@ -27,6 +27,6 @@
   quote: >
     A lecture given on AI programming using PyTorch. The audience was students from Keio University MBA.
   description: | # this will include new lines to allow paragraphs
-    - Conducted the whole lecture, including making the code and preparing the slides and presentation
+    - Conducted the whole lecture, including making the <a href="https://github.com/skasai5296/coenhance">code</a> and preparing the slides and presentation
     - Explained the powers and limits of AI to beginners without giving high-level mathematics
     - Used Python, PyTorch to build a classification algorithm with visual reasoning

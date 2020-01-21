@@ -7,9 +7,9 @@
   #  This challenge studies the task of dense-captioning events, which involves both detecting and describing events in a video.
   description: | # this will include new lines to allow paragraphs
    <ul>
-    <li><a href="https://ieeexplore.ieee.org/document/8803435">N. Akimoto, <b>S. Kasai</b>, M. Hayashi, Y. Aoki, 360-DEGREE IMAGE COMPLETION BY TWO-STAGE CONDITIONAL GANS,
+    <li><a href="https://ieeexplore.ieee.org/document/8803435">N. Akimoto, <b>S. Kasai</b>, M. Hayashi, Y. Aoki, 360-Degree Image Completion by Two-Stage Conditional GANs,
         IEEE International Conference on Image Processing (ICIP), Sep 2019.</a></li>
-    <li>K. Yoshida, K. Okayasu, K. Tsubura, M. Minoguchi, T. Ikeya, A. Nakamura, <b>S. Kasai</b>, H. Kataoka, Which generates better jokes, hand-crafted features or deep features,
+    <li>K. Yoshida, K. Okayasu, K. Tsubura, M. Minoguchi, T. Ikeya, A. Nakamura, <b>S. Kasai</b>, H. Kataoka, Which Generates Better Jokes, Hand-Crafted Features or Deep Features,
         CVPR 2019 Language &amp; Vision Workshop, Jun 2019. </li>
    </ul>
 
