@@ -5,14 +5,14 @@ repository: sproogen/resume-theme
 # Personal info
 name: Seito Kasai
 title: MS Student, Computer Science and Electronic Engineering
-email: seito[at]gmail.com
+email: seito5296[at]gmail.com
 website: https://skasai5296.github.io/
 
 # Social links
 twitter_username: sk_gnkr96
 github_username: skasai5296
 # dribbble_username: jekyll
-facebook_username: seito.kasai
+# facebook_username: seito.kasai
 # flickr_username: jekyll
 # instagram_username: chillwildlife
 linkedin_username: seito-kasai-9541b1182
@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am currently a graduate student working on vision & language at Aoki Media Sensing Lab. in Keio University, and live in Tokyo, Japan.
   My main interest in the tech industry is creating software to give an impact on many people's lives and experience.
 
-  Currently I am looking for engineering/research full-time offers, especially ones in which I can express and enhance my skills.
+  Currently I am looking for engineering/research internship/full-time offers, especially ones in which I can express and enhance my skills.
   If you're interested, please don't hesitate to contact me!
 
   Programming Languages: <mark>Python</mark>, <mark>C/C++</mark>, <mark>R</mark>, <mark>MATLAB</mark>, <mark>Java</mark>

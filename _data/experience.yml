@@ -5,19 +5,19 @@
   quote: >
     Startup focusing on optimizing land usage using geospatial data
   description: | # this will include new lines to allow paragraphs
-    - Automated satellite data download and processing using Python, Gdal, and Docker
-    - Built a [web application](https://www.youtube.com/watch?v=uA44Hnl042c) using Django and PostgreSQL
-    - Deploying application on public cloud services
+    - Automated satellite data download and processing using Python, Gdal, GIS, Docker, and AWS
+    - Built a [web application](https://www.youtube.com/watch?v=uA44Hnl042c) for visualizing geospatial data
+    - DevOps/MLOps, building infrastructure for application of machine learning
 
 - company: National Institute of Advanced Industrial Science and Technology (AIST)
   link: https://www.aist.go.jp/index_en.html
-  job_title: Part-time Research Assistant / Intern, Computer Vision Research Group
+  job_title: Part-time Research Assistant / Intern, AI Research Centre - Computer Vision Research Team
   dates: Apr 2019 - present
   quote: >
     Japanese resesarch facility aiming to utilize scientific knowledge and technology to meet socio-economic needs
   description: | # this will include new lines to allow paragraphs
     - Conducting research on the latest computer vision
-    - Publications in video recognition, vision & language, and cross-modal representation learning and retrieval
+    - Publications in video recognition, vision & language, and cross-modal representation learning / retrieval
 
 - company: Amazon Web Services Japan
   link: https://aws.amazon.com/
@@ -27,13 +27,3 @@
   description: | # this will include new lines to allow paragraphs
     - Worked as a team and analyzed real-world problems seen through data
     - Used Amazon S3, Amazon Sagemaker to conduct analysis and deploy scalable machine learning models
-
-- company: Pre-Startup in Keio University MBA
-  #link: boringcompany.com
-  job_title: Software Engineer, Tutor
-  dates: Jan 2019 - Apr 2019
-  quote: >
-    A pre-startup working with just four people, starting business from scratch, produced two MVPs for commercial products
-  description: | # this will include new lines to allow paragraphs
-    - Conducted a Japanese course on deep learning for beginners including <a href="https://github.com/skasai5296/coenhance">code written using Google Colaboratory</a>, using PyTorch
-    - Planned startup concepts and MVPs, worked with people having different specialities

@@ -6,8 +6,11 @@
     This organization consists of members from various universities in Japan all studying computer vision.
     Over 100 members participate in the projects that we hold at cvpaper.challenge, e.g. CVPR 2018 survey.
   description: | # this will include new lines to allow paragraphs
-    - Participating as a survey member for top conferences on computer vision and natural language processing
-    - Aiming to publish in top international conferences
+    - Participating as a research member for publication in top conferences on computer vision and natural language processing
+    - Creating survey slides and material for computer vision
+      - [Video Recognition](https://www.slideshare.net/cvpaperchallenge/towards-performant-video-recognition-231628214)
+      - [Self-supervised Learning](https://www.slideshare.net/cvpaperchallenge/selfsupervised-learning-232896551)
+      - [Vision & Language](https://www.slideshare.net/cvpaperchallenge/vision-and-language-232926110)
 
 - name: ActivityNet Large-Scale Activity Recognition Challenge (Kinetics, Dense-Captioning Events in Videos)
   link: http://activity-net.org/challenges/2019/challenge.html
@@ -27,6 +30,6 @@
   quote: >
     A lecture given on AI programming using PyTorch. The audience was students from Keio University MBA.
   description: | # this will include new lines to allow paragraphs
-    - Conducted the whole lecture, including making the <a href="https://github.com/skasai5296/coenhance">code</a> and preparing the slides and presentation
+    - Conducted the whole lecture, including making the [code](https://github.com/skasai5296/coenhance) and preparing the slides and presentation
     - Explained the powers and limits of AI to beginners without giving high-level mathematics
     - Used Python, PyTorch to build a classification algorithm with visual reasoning
